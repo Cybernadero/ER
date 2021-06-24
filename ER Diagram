@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T23:48:46.088Z" agent="5.0 (Windows)" etag="AHuXomC93UQQ6-4c8MvB" version="14.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T23:50:04.217Z" agent="5.0 (Windows)" etag="z68he7m7xBU0TBfC8PLX" version="14.7.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="120" y="200" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UcVBwMuwhpVXpyu75pQf-82" value="shipping" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="340" width="200" height="270" as="geometry" />
+          <mxGeometry x="80" y="300" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="UcVBwMuwhpVXpyu75pQf-83" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UcVBwMuwhpVXpyu75pQf-82">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -321,6 +321,16 @@
         </mxCell>
         <mxCell id="UcVBwMuwhpVXpyu75pQf-107" value="CardName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="UcVBwMuwhpVXpyu75pQf-105">
           <mxGeometry x="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UcVBwMuwhpVXpyu75pQf-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;align=left;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="UcVBwMuwhpVXpyu75pQf-54" target="UcVBwMuwhpVXpyu75pQf-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="95" />
+              <mxPoint x="290" y="260" />
+              <mxPoint x="60" y="260" />
+              <mxPoint x="60" y="375" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
