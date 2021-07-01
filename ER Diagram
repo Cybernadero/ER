@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T22:19:10.069Z" agent="5.0 (Windows)" etag="-TYiNenQmuxAq-0Graf-" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T22:19:34.689Z" agent="5.0 (Windows)" etag="XCbC2r8SzzJmtEXjVdbM" version="14.8.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UcVBwMuwhpVXpyu75pQf-66" value="Password" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="1" vertex="1">
-          <mxGeometry x="360" y="505" width="150" height="30" as="geometry" />
+          <mxGeometry x="350" y="505" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UcVBwMuwhpVXpyu75pQf-82" value="shipping" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="580" width="220" height="270" as="geometry" />
