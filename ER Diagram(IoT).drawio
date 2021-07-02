@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T00:52:50.850Z" agent="5.0 (Windows)" etag="5MwvbX-t1wDULe3WNozO" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T00:53:11.215Z" agent="5.0 (Windows)" etag="v0nYDl7Bh0AY3mp7vHlQ" version="14.8.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -15,18 +15,6 @@
         </mxCell>
         <mxCell id="plLRQvuAzvyJONZy3Icw-3" value="Name&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="plLRQvuAzvyJONZy3Icw-2" vertex="1">
           <mxGeometry y="30" width="390" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Xa_WfQXNvAv4PRlTD_PZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="plLRQvuAzvyJONZy3Icw-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="440" as="sourcePoint" />
-            <mxPoint x="390" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BCx8TiVWt5CStCzZTRIE-1" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;swimlaneFillColor=#D5E8D4;" parent="1" vertex="1">
-          <mxGeometry x="300" y="570" width="220" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="BCx8TiVWt5CStCzZTRIE-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="BCx8TiVWt5CStCzZTRIE-1" vertex="1">
-          <mxGeometry y="30" width="220" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CrPRBgPaYsHp_CWL4x3b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Xa_WfQXNvAv4PRlTD_PZ-3" target="7o4p5aFScfs_D29SADF1-2">
           <mxGeometry relative="1" as="geometry" />
