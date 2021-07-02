@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T00:27:30.548Z" agent="5.0 (Windows)" etag="l4kAFR4R8NuWLuXWKeLk" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T00:31:38.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="tjCLXcpWl2Qh_y208HIn" version="14.8.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="827" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-40" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-40" value="Sensors" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-41" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="8Ddsi9I6aPTKsWgE6PB1-40">
+        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-41" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="8Ddsi9I6aPTKsWgE6PB1-40" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
