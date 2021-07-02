@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T00:32:25.298Z" agent="5.0 (Windows)" etag="5ADcqKD_oAtGxMfWYkL7" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T00:33:01.149Z" agent="5.0 (Windows)" etag="ZzLuqNEjsbq0H5NjXvVe" version="14.8.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-40" value="Sensors" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;swimlaneLine=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="90" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ddsi9I6aPTKsWgE6PB1-41" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="8Ddsi9I6aPTKsWgE6PB1-40" vertex="1">
-          <mxGeometry y="30" width="200" height="170" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
