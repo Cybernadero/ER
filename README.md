@@ -1,6 +1,6 @@
 [DIAGRAM DESIGN (SQL)](https://app.diagrams.net/#HGreenhouse-Garden%2FER%2Fmain%2FER%20Diagram%20(SQL))
 
-![ER](https://github.com/Cybernadero/ER/blob/main/ER%20Diagram.png?raw=true)
+![ER SQL](https://raw.githubusercontent.com/Greenhouse-Garden/ER/main/ER%20Diagram%20(SQL).png)
 
 
 
